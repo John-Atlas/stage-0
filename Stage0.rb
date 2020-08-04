@@ -1,6 +1,6 @@
 # stage-0
 # written with ruby version 1.4.0
-name = "Adejinmi"
+name = "Adejinmi Oluwapelumi"
 email = "oluwapelumijohnadejinmi@gmail.com"
 proglanguage = "ruby"
 biostack = "Genomics"
