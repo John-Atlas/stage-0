@@ -12,3 +12,4 @@ print <<PEL
 #{biostack}
 @#{slusername}
 PEL
+# I hope this is good enough?
